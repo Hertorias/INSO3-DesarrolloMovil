@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_f1"
+        android:icon="@drawable/baseline_sports_esports_black_24dp"
+        android:title="Juegos" />
+    <item
+        android:id="@+id/menu_f2"
+        android:icon="@drawable/baseline_discount_black_24dp"
+        android:title="Ofertas" />
+    <item
+        android:id="@+id/menu_f3"
+        android:icon="@drawable/baseline_shopping_cart_black_24dp"
+        android:title="Carrito de compra" />
+
+</menu>

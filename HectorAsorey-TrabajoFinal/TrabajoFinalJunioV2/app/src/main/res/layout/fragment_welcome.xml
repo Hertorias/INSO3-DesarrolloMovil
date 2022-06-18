@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/title_image_mod"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Bienvenido a su tienda de confianza de videojuegos"
+        android:textSize="24dp"
+        android:textColor="#0055F4"
+        android:textStyle="bold"
+        android:layout_marginHorizontal="5dp"
+        android:layout_marginVertical="10dp"
+        android:gravity="center"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="En esta aplicación podrá buscar los lanzamientos más recientes y ofertas en videojuegos"
+        android:textSize="20dp"
+        android:gravity="center"
+        android:layout_marginVertical="7dp"
+        android:layout_marginHorizontal="5dp"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Abre el menú lateral para empezar a buscar juegos y ofertas"
+        android:textSize="20dp"
+        android:gravity="center"
+        android:layout_marginVertical="7dp"
+        android:layout_marginHorizontal="5dp"
+        />
+
+</LinearLayout>
